@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/images">
+    <file alias="logo.ico">C:/Users/admin/Desktop/Projet_version_final/logo.ico</file>
+  </qresource>
+</RCC>
+
