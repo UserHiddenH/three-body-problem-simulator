@@ -173,16 +173,14 @@ Key design decisions:
 
 ---
 
-## What We Learned
+## What I Learned
 
-This was a **12-week L2 group project** at Université Paris Cité, developed from scratch by a team of 4. It gave us hands-on experience with:
+This was a **12-week L2 group project** at Université Paris Cité, developed from scratch by a team of 4. It gave me hands-on experience with:
 
 - **Learning C++ and Qt 6 independently** from documentation and online resources
 - **Object-oriented design** in a real multi-file project (strategy pattern, signal/slot, separation of concerns)
 - **Numerical methods** — implementing and comparing Euler variants and Runge-Kutta 4, and observing their effects on trajectory stability
 - **Structured development cycle** — specifications, technical design, weekly meetings with supervisor, SVN version control, full documentation
 - **UI/UX design** — building an intuitive interface for a scientifically complex subject
-
----
 
 ---
